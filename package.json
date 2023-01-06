@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/sakonpatsamit/Yaml/issues"
   },
-  "homepage": "https://github.com/sakonpatsamit/Yaml#readme"
+  "homepage": "https://github.com/sakonpatsamit/Yaml#readme",
+  "devDependencies": {
+    "dotenv": "^16.0.3"
+  }
 }
